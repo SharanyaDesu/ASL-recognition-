@@ -27,6 +27,7 @@ Validation Set: 17,400 images
 Testing Set: 8,700 images
 The images are resized to 32x32 pixels and normalized to improve model performance.
 
+ASL recognition Dataset is very big. So, that I have uploaded the dataset in google drive. For dataset drive link please refer Dataset_link.txt file
 
 # Preprocessing techniques
 One-Hot Encoding: One-hot encoding converts categorical labels into a binary matrix, where each label is represented as a unique vector with a single '1' and the rest '0s,' making it suitable for classification by the model.
