@@ -12,14 +12,12 @@ Future improvements include data augmentation, attention mechanisms, and multimo
 
 
 # Table of Contents
-Dataset
-Preprocessing techniques
-Model Architecture
-Implementation
-Results
+Dataset,
+Preprocessing techniques,
+Model Architecture,
+Implementation,
+Results,
 Future Work
-Contributors
-
 
 # Dataset
 The dataset consists of 87,000 images of ASL alphabet gestures. It is divided into:
